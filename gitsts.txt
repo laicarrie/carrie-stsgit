@@ -4,3 +4,4 @@ connie riskbasedtesting
 thomas bbtesting
 tommy testautomation
 van assistant technician
+Tommy is also an assistant technician
