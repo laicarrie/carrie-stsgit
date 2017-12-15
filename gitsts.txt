@@ -2,3 +2,5 @@ stscourse name
 addison git
 connie riskbasedtesting
 thomas bbtesting
+tommy testautomation
+van assistant technician
